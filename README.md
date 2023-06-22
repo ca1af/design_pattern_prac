@@ -1,3 +1,17 @@
+# 개요
+
+__Head First Design Patterns__ 
+
+책과 함께 떠나는 디자인 패턴 여행!
+
+직접 구현하고, 정리했습니다.
+ 
+<br>
+
+---
+
+<br>
+
 # 1. 전략 패턴 (Strategy Pattern)
 
 <img src="https://velog.velcdn.com/images/calaf/post/3d259fef-9522-4f7a-ac13-e3ad6ab7c934/image.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
@@ -8,6 +22,11 @@
 >  알고리즘군을 정의하고 캡슐화해서 각각의 알고리즘군을 수정해서 쓸 수 있게 해줍니다. 
 > 
 > 전략 패턴을 사용하면 클라이언트로부터 알고리즘을 분리해서 독립적으로 변경 할 수 있습니다.
+<br>
+
+---
+
+<br>
 
 # 2. 옵저버 패턴 (Observer Pattern)
 
