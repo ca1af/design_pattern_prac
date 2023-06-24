@@ -13,6 +13,8 @@ __Head First Design Patterns__
 <br>
 
 # 1. 전략 패턴 (Strategy Pattern)
+[소스 코드](https://github.com/ca1af/design_pattern_prac/tree/f8b6d18a87025be64b725f4cad591e5c34ea8a3a/src/main/java/com/example/design_pattern/strategy_pattern)
+
 
 <img src="https://velog.velcdn.com/images/calaf/post/3d259fef-9522-4f7a-ac13-e3ad6ab7c934/image.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
@@ -29,6 +31,8 @@ __Head First Design Patterns__
 <br>
 
 # 2. 옵저버 패턴 (Observer Pattern)
+
+[소스 코드](https://github.com/ca1af/design_pattern_prac/tree/f8b6d18a87025be64b725f4cad591e5c34ea8a3a/src/main/java/com/example/design_pattern/observer_pattern)
 
 <img src="https://velog.velcdn.com/images/calaf/post/79e9222b-525a-4c45-89ce-2e0cd1d60b61/image.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
@@ -50,6 +54,8 @@ __Head First Design Patterns__
 <br>
 
 # 3. 데코레이터 패턴 (Decorator Pattern)
+
+[소스 코드](https://github.com/ca1af/design_pattern_prac/tree/f8b6d18a87025be64b725f4cad591e5c34ea8a3a/src/main/java/com/example/design_pattern/decorator_pattern)
 
 <img src="https://velog.velcdn.com/images/calaf/post/af512aef-4dd4-417c-829a-3968cb5a7de0/image.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
