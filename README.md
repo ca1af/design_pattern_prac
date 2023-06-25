@@ -15,6 +15,9 @@ __Head First Design Patterns__
 # 1. 전략 패턴 (Strategy Pattern)
 [소스 코드](https://github.com/ca1af/design_pattern_prac/tree/f8b6d18a87025be64b725f4cad591e5c34ea8a3a/src/main/java/com/example/design_pattern/strategy_pattern)
 
+### 한줄평 : "바뀌는 부분은 바뀌지 않는 부분과 분리해서 관리하라!
+<br>
+
 
 <img src="https://velog.velcdn.com/images/calaf/post/3d259fef-9522-4f7a-ac13-e3ad6ab7c934/image.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
@@ -31,6 +34,9 @@ __Head First Design Patterns__
 <br>
 
 # 2. 옵저버 패턴 (Observer Pattern)
+
+### 한줄 평 : "객체의 다형성을 위해 상속이 아닌 구상을 사용하고, 느슨한 결합을 목표하자"
+<br>
 
 [소스 코드](https://github.com/ca1af/design_pattern_prac/tree/f8b6d18a87025be64b725f4cad591e5c34ea8a3a/src/main/java/com/example/design_pattern/observer_pattern)
 
@@ -54,6 +60,9 @@ __Head First Design Patterns__
 <br>
 
 # 3. 데코레이터 패턴 (Decorator Pattern)
+
+### 한줄평 : "객체의 유연한 확장을 위해 데코레이터 패턴을 고려 할 수 있다"
+<br>
 
 [소스 코드](https://github.com/ca1af/design_pattern_prac/tree/f8b6d18a87025be64b725f4cad591e5c34ea8a3a/src/main/java/com/example/design_pattern/decorator_pattern)
 
