@@ -70,8 +70,25 @@ __Head First Design Patterns__
 
 ### 야돈이 야도란이 됐다? : [데코레이터 패턴 정리](https://velog.io/@calaf/3.-%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0-%ED%8C%A8%ED%84%B4-Decorator-Pattern)
 
-> ## ***데코레이터 패턴?***
->  데코레이터 패턴(Decorator Pattern)은 객체에 추가 요소를 동적으로 더할 수 있게 해줍니다.
+---
+
+<br>
+
+# 4. 팩토리 매서드 패턴 (Factory Method Pattern)
+
+### 한줄평 : "인스턴스의 복잡한 생성 로직을 분리한다!"
+<br>
+
+[소스 코드](https://github.com/ca1af/design_pattern_prac/tree/c23a1aa6f9cca31f254741668e8b3b55fb0e8c97/src/main/java/com/example/design_pattern/factory_pattern)
+
+<img src="https://velog.velcdn.com/images/calaf/post/fe6cf21a-77cb-4dc0-99cd-df10dc7eac22/image.jpeg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+### 인스턴스 생성 간다잇~! : [팩토리 매서드 패턴 정리](https://velog.io/@calaf/4.-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A7%A4%EC%86%8C%EB%93%9C-%ED%8C%A8%ED%84%B4-Factory-Method-Pattern)
+
+> ## ***팩토리 매서드 패턴?***
+>  객체를 생성할 때 필요한 "인터페이스"(방법) 을 만듭니다.
 >
-> 데코레이터를 사용하면, 서브 클래스를 만들 때보다 훨씬 유연하게 기능을 확장 할 수 있습니다.
+> 어떤 클래스의 인스턴스를 만들지는 서브클래스에서 결정합니다.
+>
+> 팩토리 매서드 패턴을 사용하면, 클래스 인스턴스 만드는 일을 서브클래스에 위임하게 됩니다.
 <br>
