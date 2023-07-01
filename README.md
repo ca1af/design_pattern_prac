@@ -81,7 +81,7 @@ __Head First Design Patterns__
 
 [소스 코드](https://github.com/ca1af/design_pattern_prac/tree/c23a1aa6f9cca31f254741668e8b3b55fb0e8c97/src/main/java/com/example/design_pattern/factory_pattern)
 
-<img src="https://velog.velcdn.com/images/calaf/post/fe6cf21a-77cb-4dc0-99cd-df10dc7eac22/image.jpeg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://github.com/ca1af/design_pattern_prac/assets/117057567/088fcacb-dd8a-45f8-acce-a1d456fae06a" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 ### 인스턴스 생성 간다잇~! : [팩토리 매서드 패턴 정리](https://velog.io/@calaf/4.-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A7%A4%EC%86%8C%EB%93%9C-%ED%8C%A8%ED%84%B4-Factory-Method-Pattern)
 
@@ -91,4 +91,23 @@ __Head First Design Patterns__
 > 어떤 클래스의 인스턴스를 만들지는 서브클래스에서 결정합니다.
 >
 > 팩토리 매서드 패턴을 사용하면, 클래스 인스턴스 만드는 일을 서브클래스에 위임하게 됩니다.
+<br>
+
+---
+
+<br>
+
+# 5. 싱글턴 패턴 (Singleton Pattern)
+
+### 한줄평 : "하나의 인스턴스만 생성되고 사용되도록 강제하기!"
+<br>
+
+[소스 코드](https://github.com/ca1af/design_pattern_prac/tree/main/src/main/java/com/example/design_pattern/singleton_pattern)
+
+<img src="https://github.com/ca1af/design_pattern_prac/assets/117057567/9b9eb0ff-9e5d-41c1-9466-45e13260d717" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+### 오직 하나뿐! : [싱글턴 패턴 정리](https://velog.io/@calaf/5.-%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4Singleton-Pattern)
+
+> ## ***싱글턴 패턴?***
+>  클래스의 인스턴스가 "오직 하나"만 생성 되는것을 보장합니다!
 <br>
