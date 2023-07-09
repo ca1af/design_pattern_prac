@@ -110,4 +110,30 @@ __Head First Design Patterns__
 
 > ## ***싱글턴 패턴?***
 >  클래스의 인스턴스가 "오직 하나"만 생성 되는것을 보장합니다!
+
+
+---
+
 <br>
+
+# 6. 커맨드 패턴 (Command Pattern)
+
+### 한줄평 : "매서드 호출을 캡슐화한다! Command Pattern!"
+<br>
+
+[소스 코드](https://github.com/ca1af/design_pattern_prac/tree/main/src/main/java/com/example/design_pattern/command_pattern)
+
+<img src="https://velog.velcdn.com/images/calaf/post/3b2f3852-5aee-418b-b816-1dd5eebc769b/image.gif" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+### 오직 하나뿐! : [커맨드 패턴 정리](https://velog.io/@calaf/6.-%EC%BB%A4%EB%A7%A8%EB%93%9C-%ED%8C%A8%ED%84%B4-Command-Pattern)
+
+> ## ***커맨드 패턴?***
+> 요청 내역을 객체로 캡슐화해서,
+> 객체를 서로 다른 요청 내역에 따라 매개변수화 할 수 있다.
+> 
+> 이로 인해서 요청을
+> ***Queue에 저장***하거나, 
+> 
+> ***로그로 기록***하거나 
+> 
+> ***"요청"에 대한 작업 취소(롤백) 기능을 사용***할 수 있다.
