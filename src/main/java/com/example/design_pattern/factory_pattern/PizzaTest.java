@@ -16,5 +16,4 @@ public class PizzaTest {
         pizza = chicagoStore.orderPizza("CHCheese");
         System.out.println("B가 주문한 피자 :" + pizza.getName() + "\n");
     }
-
 }
