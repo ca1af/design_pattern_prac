@@ -6,6 +6,8 @@ import com.example.design_pattern.adapter_pattern.duck.MallardDuck;
 import com.example.design_pattern.adapter_pattern.turkey.Turkey;
 import com.example.design_pattern.adapter_pattern.turkey.WildTurkey;
 
+import java.util.Enumeration;
+
 public class AdapterTest {
     public static void main(String[] args) {
         Duck duck = new MallardDuck();
